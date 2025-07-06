@@ -55,7 +55,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>3.5.3</version>
 				<configuration>
-					<mainClass>com.example.EcommerceApplication</mainClass> <!-- Update with your actual main class -->
+					<mainClass>com.example.E_commerce.ECommerceApplication</mainClass> <!-- Update with your actual main class -->
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
